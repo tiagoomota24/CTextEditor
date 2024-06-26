@@ -20,7 +20,7 @@
                 }
             ],
             "preLaunchTask": "build",
-            "miDebuggerPath": "C:/MinGW/bin/gdb.exe",  // Atualize este caminho conforme necessário
+            "miDebuggerPath": "C:/MinGW/bin/gdb.exe",
             "internalConsoleOptions": "openOnSessionStart"
         }
     ]
