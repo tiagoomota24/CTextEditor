@@ -12,8 +12,17 @@ Este é um projeto simples de um editor de texto em C.
 
 Para compilar o projeto, use o seguinte comando:
 
-sh
+```sh
 gcc -o main main.c
+```
+
+## Como Executar
+
+Para executar o programa, use o seguinte comando:
+
+```sh
+./main
+```
 
 ## Contribuição
 
